@@ -1,0 +1,19 @@
+{
+  "name": "heena",
+  "version": "1.0.0",
+  "description": "nodejsexamples",
+  "main": "append.js",
+  "dependencies": {
+    "upper-case": "^1.1.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "gitexample"
+  }
+}
